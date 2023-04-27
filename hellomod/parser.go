@@ -1,6 +1,6 @@
 package hellomod
 
-func GetFile(text string) string {
+func GetFile(text string, text3 string) string {
 
-	return text + " " + text
+	return text + " " + text3
 }
